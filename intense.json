@@ -4,3 +4,8 @@
     "response": ["hello", "how are you", "hey", "What can I help you with", "What can i do for you", "Sup Bro?", "Need Help?"]}
 
 ]}
+
+{"intents": [
+    {"tag": "food",
+     "patterns": ["what food do you like?", "whats your favorite food?", "is pasta good?", "how is pasta made?" "is sushi good food", "is sushi good"],
+     "response": ["i like sushi", "i like everything", "i like pasta", "yes pasta is good", "i dont know how pasta is made", "yes sushi is good food:"]}
